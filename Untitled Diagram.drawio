@@ -1,1 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T17:58:29.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="15.5.7" etag="YE1MXDeFAHurEqkuDeJ8" type="github"><diagram id="KEv1M6iN3db5MiAupULR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-08T18:05:57.227Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="uw6-pqyEQz70Rcs5rZDj" version="15.5.7" type="github">
+  <diagram id="KEv1M6iN3db5MiAupULR" name="Page-1">
+    <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sYqm0jYEy3haPevt1rFF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sYqm0jYEy3haPevt1rFF-1" target="sYqm0jYEy3haPevt1rFF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqm0jYEy3haPevt1rFF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="sYqm0jYEy3haPevt1rFF-7" target="sYqm0jYEy3haPevt1rFF-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="635" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sYqm0jYEy3haPevt1rFF-1" value="AWS learning path" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqm0jYEy3haPevt1rFF-2" value="AWS SKILL&amp;nbsp; BUILDER&lt;br&gt;https://explore.skillbuilder.aws/learn/home" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="230" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqm0jYEy3haPevt1rFF-4" value="Since DIC 2021 - nueva plataforma de elearming de AWS, sustituye a AWS Training" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="100" y="180" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqm0jYEy3haPevt1rFF-5" value="AWS Training&lt;br&gt;https://www.aws.training/" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="500" y="130" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqm0jYEy3haPevt1rFF-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="550" y="45" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqm0jYEy3haPevt1rFF-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="sYqm0jYEy3haPevt1rFF-1" target="sYqm0jYEy3haPevt1rFF-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="635" y="130" as="targetPoint" />
+            <mxPoint x="470" y="60" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sYqm0jYEy3haPevt1rFF-10" value="All self-paced digital courses are now on AWS Training and Certification’s new learning center, AWS Skill Builder. All classroom courses and old transcripts will remain on aws.training." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#4D4D4D;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="490" y="15" width="360" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
