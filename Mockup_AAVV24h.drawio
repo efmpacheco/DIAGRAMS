@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-21T15:02:09.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="UqgKlYger9SjNIioNiW6" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-21T15:05:40.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="3_OFg7J2e7kJy7hJuJyd" version="16.6.4" type="github">
   <diagram id="LJ3lU3-_otBDvy5FKb0J" name="Page-1">
-    <mxGraphModel dx="1408" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="854" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,8 +13,14 @@
         <mxCell id="uS_sKdb5xaXnWw3Zl5GC-3" value="INDITEX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;fontColor=#CC0000;" vertex="1" parent="1">
           <mxGeometry x="100" y="50" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uS_sKdb5xaXnWw3Zl5GC-6" value="gráficas" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#CC0000;align=left;" vertex="1" parent="1">
+        <mxCell id="uS_sKdb5xaXnWw3Zl5GC-6" value="gráficas evolución tiempo ejecución&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#CC0000;align=left;" vertex="1" parent="1">
           <mxGeometry x="120" y="100" width="630" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="uS_sKdb5xaXnWw3Zl5GC-7" value="gráficas variación dato VENTA&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#CC0000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="290" width="630" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="uS_sKdb5xaXnWw3Zl5GC-8" value="Países CORE&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#CC0000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="490" width="630" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
