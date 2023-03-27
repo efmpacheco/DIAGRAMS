@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-26T15:41:51.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="LhqG6YrhYWLHDTO4UjmX" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T08:11:06.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="q2vh41JImicj-gOUC3pk" version="21.0.8" type="github">
   <diagram id="LJ3lU3-_otBDvy5FKb0J" name="Page-1">
     <mxGraphModel dx="2762" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -44,6 +44,9 @@
         <mxCell id="MVU7_2ZqVJE06uC7ywKW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="MVU7_2ZqVJE06uC7ywKW-2" source="MVU7_2ZqVJE06uC7ywKW-4" target="MVU7_2ZqVJE06uC7ywKW-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MVU7_2ZqVJE06uC7ywKW-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="MVU7_2ZqVJE06uC7ywKW-2" source="MVU7_2ZqVJE06uC7ywKW-4" target="MVU7_2ZqVJE06uC7ywKW-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MVU7_2ZqVJE06uC7ywKW-4" value="PBIs" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;glass=0;fillStyle=zigzag;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=10;" vertex="1" parent="MVU7_2ZqVJE06uC7ywKW-2">
           <mxGeometry x="170" y="170" width="80" height="30" as="geometry" />
         </mxCell>
@@ -55,6 +58,9 @@
         </mxCell>
         <mxCell id="MVU7_2ZqVJE06uC7ywKW-10" value="Formación Power Platform" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;fontStyle=1;fontSize=10;labelBorderColor=default;" vertex="1" parent="MVU7_2ZqVJE06uC7ywKW-2">
           <mxGeometry x="150" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVU7_2ZqVJE06uC7ywKW-55" value="Modelo de promos" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="MVU7_2ZqVJE06uC7ywKW-2">
+          <mxGeometry x="30" y="270" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MVU7_2ZqVJE06uC7ywKW-13" value="TIENDA - TO DO" style="swimlane;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="320" y="370" width="430" height="590" as="geometry">
@@ -73,7 +79,7 @@
         <mxCell id="MVU7_2ZqVJE06uC7ywKW-45" value="&amp;nbsp;Probar carga incremental&lt;br style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; .- T_AUX_PPCC_INC&lt;br style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; .- T_FACT_PEOPLE_COUNTER_INC" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;align=left;" vertex="1" parent="MVU7_2ZqVJE06uC7ywKW-13">
           <mxGeometry x="50" y="154" width="160" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="MVU7_2ZqVJE06uC7ywKW-52" value=".- tipo dato timestamp a date en AUX_PPCC&lt;br&gt;.- crear versiones en PRE&lt;br&gt;.- DG de People_COUNTER" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;align=left;" vertex="1" parent="MVU7_2ZqVJE06uC7ywKW-13">
+        <mxCell id="MVU7_2ZqVJE06uC7ywKW-52" value=".- crear versiones en PRE&lt;br&gt;.- DG de People_COUNTER" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;align=left;" vertex="1" parent="MVU7_2ZqVJE06uC7ywKW-13">
           <mxGeometry x="70" y="370" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MVU7_2ZqVJE06uC7ywKW-54" value="COUNTER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;fontStyle=1;fontSize=10;" vertex="1" parent="MVU7_2ZqVJE06uC7ywKW-13">
