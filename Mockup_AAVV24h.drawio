@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T11:22:37.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="IeiDiJfGYVllUogXbpj6" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T11:23:52.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="RkHXPyc3NsMiIdfiQQDU" version="21.1.1" type="github">
   <diagram id="LJ3lU3-_otBDvy5FKb0J" name="Page-1">
     <mxGraphModel dx="2049" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -44,13 +44,10 @@
         <mxCell id="MVU7_2ZqVJE06uC7ywKW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="MVU7_2ZqVJE06uC7ywKW-2" source="MVU7_2ZqVJE06uC7ywKW-4" target="MVU7_2ZqVJE06uC7ywKW-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MVU7_2ZqVJE06uC7ywKW-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="MVU7_2ZqVJE06uC7ywKW-2" source="MVU7_2ZqVJE06uC7ywKW-4" target="MVU7_2ZqVJE06uC7ywKW-55" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="MVU7_2ZqVJE06uC7ywKW-4" value="PBIs" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;glass=0;fillStyle=zigzag;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=10;" parent="MVU7_2ZqVJE06uC7ywKW-2" vertex="1">
           <mxGeometry x="170" y="170" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MVU7_2ZqVJE06uC7ywKW-5" value="R0002 umbrales" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="MVU7_2ZqVJE06uC7ywKW-2" vertex="1">
+        <mxCell id="MVU7_2ZqVJE06uC7ywKW-5" value="R0001 umbrales" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="MVU7_2ZqVJE06uC7ywKW-2" vertex="1">
           <mxGeometry x="210" y="270" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MVU7_2ZqVJE06uC7ywKW-6" value="R0002 calendario" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="MVU7_2ZqVJE06uC7ywKW-2" vertex="1">
@@ -59,8 +56,8 @@
         <mxCell id="MVU7_2ZqVJE06uC7ywKW-10" value="Formación Power Platform" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;fontStyle=1;fontSize=10;labelBorderColor=default;" parent="MVU7_2ZqVJE06uC7ywKW-2" vertex="1">
           <mxGeometry x="150" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MVU7_2ZqVJE06uC7ywKW-55" value="Modelo de promos" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="MVU7_2ZqVJE06uC7ywKW-2" vertex="1">
-          <mxGeometry x="30" y="270" width="80" height="30" as="geometry" />
+        <mxCell id="MVU7_2ZqVJE06uC7ywKW-55" value="Modelo de promos&lt;br&gt;Transferir a Diego/Raúl" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="MVU7_2ZqVJE06uC7ywKW-2" vertex="1">
+          <mxGeometry x="40" y="380" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MVU7_2ZqVJE06uC7ywKW-13" value="TIENDA - TO DO" style="swimlane;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="320" y="370" width="430" height="590" as="geometry">
@@ -79,8 +76,8 @@
         <mxCell id="MVU7_2ZqVJE06uC7ywKW-45" value="&amp;nbsp;Probar carga incremental&lt;br style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; .- T_AUX_PPCC_INC&lt;br style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; .- T_FACT_PEOPLE_COUNTER_INC" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;align=left;" parent="MVU7_2ZqVJE06uC7ywKW-13" vertex="1">
           <mxGeometry x="50" y="154" width="160" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="MVU7_2ZqVJE06uC7ywKW-52" value=".- crear versiones en PRE&lt;br&gt;.- DG de People_COUNTER&lt;br&gt;.- transferir a Diego/Raúl" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;align=left;" parent="MVU7_2ZqVJE06uC7ywKW-13" vertex="1">
-          <mxGeometry x="70" y="370" width="250" height="70" as="geometry" />
+        <mxCell id="MVU7_2ZqVJE06uC7ywKW-52" value=".- crear versiones en PRE&lt;br&gt;.- DG de People_COUNTER&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;align=left;" parent="MVU7_2ZqVJE06uC7ywKW-13" vertex="1">
+          <mxGeometry x="70" y="370" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MVU7_2ZqVJE06uC7ywKW-54" value="COUNTER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;fontStyle=1;fontSize=10;" parent="MVU7_2ZqVJE06uC7ywKW-13" vertex="1">
           <mxGeometry x="80" y="290" width="80" height="30" as="geometry" />
